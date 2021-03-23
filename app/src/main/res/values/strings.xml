@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">CPD-AndroidProjectA1</string>
+    <string name="splashScreenButton">Splash Screen Button</string>
+    <string name="loginScreenButton">Login Screen Button</string>
+</resources>
